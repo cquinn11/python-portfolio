@@ -17,7 +17,7 @@
 **Summary**: This program creates random dots varying in color and size. 
 **Key Features**: 
 - Random colors, infinite possibilites.
--Creates an interesting looking backround.   
+- Creates an interesting looking backround.   
 
 ### Project 4: Underwater Scene 
 **Summary**: This program draws a scene of fish, seaweed, and starfish. 
